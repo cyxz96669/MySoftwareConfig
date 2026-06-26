@@ -10,7 +10,7 @@
 .ra13.xyz
 
 # rmcdn10.xyz - 广告素材分发 CDN
-.rmcdn10.xyz
+#.rmcdn10.xyz
 
 # mayzaent.com - 广告网络 (creative.mayzaent.com, go.mayzaent.com)
 .mayzaent.com
