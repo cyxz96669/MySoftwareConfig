@@ -1,0 +1,53 @@
+﻿# Surfboard Ad Block Domain Set
+# Source: Rouman Android App (com.rouman5.android) network log analysis
+# Format: DOMAIN-SET compatible
+# Lines starting with # are comments
+# Lines starting with . match the domain AND all its subdomains
+
+# === 广告投放 CDN / Ad Delivery CDN ===
+
+# ra13.xyz - 随机短域名广告 CDN，大量并发连接
+.ra13.xyz
+
+# rmcdn10.xyz - 广告素材分发 CDN
+.rmcdn10.xyz
+
+# mayzaent.com - 广告网络 (creative.mayzaent.com, go.mayzaent.com)
+.mayzaent.com
+
+# reebr.com - 广告跳转/点击追踪 (go.reebr.com)
+.reebr.com
+
+# ahacdn.me - 广告内容分发网络
+.ahacdn.me
+
+# doppiocdn.com - 成人内容广告平台 CDN
+.doppiocdn.com
+
+# strip-chat.chat - 成人直播广告平台
+.strip-chat.chat
+
+# magsrv.com - 已知广告服务器网络
+.magsrv.com
+
+# growcdnssedge.com - 流媒体视频广告 CDN (edge-hls, media-hls)
+.growcdnssedge.com
+
+# === 广告 Landing Page / Ad Landing Pages ===
+
+# gummy-debt.com - 无意义随机域名广告落地页
+gummy-debt.com
+
+# frozenpayerpregnant.com - 随机拼词广告落地页
+frozenpayerpregnant.com
+
+# === 追踪统计 / Tracking & Analytics (可选) ===
+
+# Google Analytics
+.google-analytics.com
+
+# Google Tag Manager
+.googletagmanager.com
+
+# Cloudflare Web Analytics
+.cloudflareinsights.com
