@@ -51,3 +51,6 @@ frozenpayerpregnant.com
 
 # Cloudflare Web Analytics
 .cloudflareinsights.com
+
+# abchina vpn check
+msmp.abchina.com.cn
